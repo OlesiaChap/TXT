@@ -1,0 +1,3 @@
+Name: Olesia
+Age: 28
+Pets: 1
