@@ -1,1 +1,15 @@
-
+Describe the bug
+The answer field shows a json format instead of a table with answers / entropies
+To Reproduce
+Steps to reproduce the behaviour or a link to the recipe / input used to cause the bug:
+add magic
+add rot13
+works with any text
+Expected behaviour
+Should rotate the characters of the magic output
+Screenshots
+If applicable, add screenshots to help explain your problem.
+Version: 9.37.0
+Compile time: 29/03/2022 17:07:59 UTC
+User-Agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0
